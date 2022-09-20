@@ -6,6 +6,7 @@ const MobileChart = ({ objectForChart }) => {
     // Удаление елемента тотал, т.к. он не нужен в графиках
     const totalElementOfArray = result.shift();
 
+    console.log(totalElementOfArray);
     // сортировка по убыванию
     result.sort((a, b) => b[1] - a[1]);
 
