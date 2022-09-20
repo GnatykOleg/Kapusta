@@ -2,7 +2,7 @@
     "name": "kapusta",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://xwinst.github.io/",
+    "homepage": "https://GnatykOleg.github.io/",
     "dependencies": {
         "@moeindana/google-oauth": "^0.1.5",
         "@reduxjs/toolkit": "^1.8.5",
